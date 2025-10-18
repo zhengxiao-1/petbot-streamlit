@@ -1,0 +1,1 @@
+"artifacts/\n*.pyc\n__pycache__/\n.env\n.venv/\ndata/\n.secrets*/\n.streamlit/\n" 

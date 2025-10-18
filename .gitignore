@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data & model artifacts (DO NOT COMMIT)
+artifacts/
+data/
+*.npy
+*.npz
+*.pt
+*.bin
+*.safetensors
+*.index
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
